@@ -1,7 +1,7 @@
 # Site settings
 title: Jennifer Sadler
 description: PhD candidate researching eating behavior
-# baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "/jekyll-theme-minimal-resume" # the subpath of your site, e.g. /blog
 # url: "https://jennyrsadler.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
